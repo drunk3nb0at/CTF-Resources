@@ -28,3 +28,11 @@
 
 [pwninit](https://github.com/io12/pwninit)
 
+## Binary Exploitation
+
+[Online Interpreter for Python](https://www.programiz.com/python-programming/online-compiler/)
+
+[Nano Cheatsheet](https://www.cheatsheet.wtf/Nano/)
+
+
+
